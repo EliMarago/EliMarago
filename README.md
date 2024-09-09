@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/c6809225-cd47-4ec7-9be0-76d68dd04734)
 
 
-![Screenshot 2024-09-09 alle 10 51 04](https://github.com/user-attachments/assets/91b6dd41-e113-4126-9317-eecf007ae42c)
-
+![Screenshot 2024-09-09 alle 10 51 49](https://github.com/user-attachments/assets/6b6edc75-e68e-4e64-b48b-98d2c2e9fefa)
 
 
