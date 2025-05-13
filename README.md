@@ -23,6 +23,6 @@ You can click the Preview link to take a look at your changes.
  **<h1> 👩🏻‍💻 My personal Portfolio </h1>**
 🔗 https://elimarago.github.io/my-portfolio/
 
- **<h1> 👩🏻‍💻 My personal photo portfolio </h1>**
+ **<h2> 👩🏻‍💻 My personal photo portfolio </h2>**
  🔗 [https://elimarago.github.io/my-portfolio/](https://elimarago.github.io/Elisabetta-Photography/)
 
