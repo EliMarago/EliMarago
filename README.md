@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 
  **<h1> 👩🏻‍💻 My personal Portfolio </h1>**
 🔗 https://elimarago.github.io/my-portfolio/
+ **<p> 👩🏻‍💻 My personal photo Portfolio </p>**
  🔗 [https://elimarago.github.io/my-portfolio/](https://elimarago.github.io/Elisabetta-Photography/)
 
 
