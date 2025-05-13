@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 
  **<p> 📸 My personal photo Portfolio </p>**
- 🔗 [[https://elimarago.github.io/my-portfolio/](https://elimarago.github.io/Elisabetta-Photography/)](https://elisabetta-photography.netlify.app/)
+ 🔗 (https://elisabetta-photography.netlify.app/)
 
 
