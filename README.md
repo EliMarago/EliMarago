@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elisabetta
 - 👀 I’m interested in Web Design / Web Developer / Photography
 - 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me elisabetta998@hotmail.it
 
 <!---
