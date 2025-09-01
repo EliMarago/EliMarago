@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![Screenshot 2024-12-16 alle 17 02 24](https://github.com/user-attachments/assets/c066a4fc-e004-4111-97ca-966cd6914ab9)
 ![Screenshot 2024-12-16 alle 17 03 25](https://github.com/user-attachments/assets/d9adf2d6-a350-4ce2-bbd8-29e4d2c198f6)
 ![Screenshot 2025-01-2<img width="262" height="62" alt="Screenshot 2025-09-01 alle 12 14 38" src="https://github.com/user-attachments/assets/21051268-5646-4784-bcff-4e36c64f5cca" />
-1 alle 18 32 32](https://github.com/user-attachments/assets/8215b503-fb5d-4a6a-b313-4b3dd54c3c09)
+
 
 
 
