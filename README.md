@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 ![Screenshot 2024-12-16 alle 17 02 24](https://github.com/user-attachments/assets/c066a4fc-e004-4111-97ca-966cd6914ab9)
 ![Screenshot 2024-12-16 alle 17 03 25](https://github.com/user-attachments/assets/d9adf2d6-a350-4ce2-bbd8-29e4d2c198f6)
 ![Screenshot 2025-01-21 alle 18 32 32](https://github.com/user-attachments/assets/8215b503-fb5d-4a6a-b313-4b3dd54c3c09)
-![January-11-2021-Nodejs-What-it-is-used-for-and-when-where-to-use-it-for-your-enterprise-app-development](https://github.com/user-attachments/assets/f71e8dc4-1792-4fba-881b-34e77d8cf481)
 
+<img width="869" height="223" alt="Screenshot 2025-09-01 alle 12 11 37" src="https://github.com/user-attachments/assets/6febe6d2-24f7-4972-860c-32f5c1a7ca99" />
 
 
 
