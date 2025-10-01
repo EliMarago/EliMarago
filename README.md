@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![Screenshot 2024-12-16 alle 17 03 25](https://github.com/user-attachments/assets/d9adf2d6-a350-4ce2-bbd8-29e4d2c198f6)
 <img width="202" height="31" alt="Screenshot 2025-09-01 alle 12 19 15" src="https://github.com/user-attachments/assets/d9ce3489-2dc9-476d-89f5-5cb46e4d5041" />
 <img width="188" height="43" alt="Screenshot 2025-09-01 alle 12 20 34" src="https://github.com/user-attachments/assets/212268b3-75e1-46f6-bdae-429e6750ffa4" />
-<img width="188" height="70" alt="Screenshot 2025-10-01 alle 15 07 54" src="https://github.com/user-attachments/assets/fd73aac8-751b-4edc-9279-2ee6fb70e797" />
+![ejs2](https://github.com/user-attachments/assets/fe50ab5b-8944-4c76-be6f-be1697284d03)
 
 
 
